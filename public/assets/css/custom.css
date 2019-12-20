@@ -1,0 +1,9 @@
+.active {
+    color: #23d300;
+    cursor: pointer;
+}
+.inactive {
+    color: #ff0505;
+    cursor: pointer;
+    
+}
